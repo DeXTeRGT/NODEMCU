@@ -1,2 +1,2 @@
 # NODEMCU
-NodeMCU ESP8622 Projects
+NodeMCU ESP8266 Projects
